@@ -145,6 +145,15 @@ www.samsungotn.net
 www.samsungrm.net
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
+config.samsungads.com
+gpm.samsungqbe.com
+log-config.samsungacr.com
+samsung.com
+samsungacr.com
+samsungads.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+samsungotn.net
 
 # HBBTV
 cdn.hbbtv.smartclip.net
